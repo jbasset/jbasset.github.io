@@ -1,0 +1,92 @@
+- title: Impact of Self-Contacts on Perceived Pose Equivalences
+  authors: Jean Basset, Badr Ouannas, Ludovic Hoyet, Franck Multon, Stefanie Wuhrer
+  journal: ACM SIGGRAPH Conference on Motion, Interaction and Games, 2022
+  year: 2022
+  thumbnail: basset2022impact.png
+  site: https://inria.hal.science/hal-03817534v1
+  links:
+    - name: PDF
+      link: https://inria.hal.science/hal-03817534v1/document
+    - name: Presentation
+      link: https://www.youtube.com/watch?v=Arm7x7Y66bQ
+    - name: DOI
+      link: https://doi.org/10.1145/3561975.3562946
+
+- title: Morphologically Plausible Deformation Transfer
+  authors: Jean Basset
+  journal: Ph.D. Thesis, 2022
+  year: 2022
+  thumbnail: basset2022morphologically.png
+  site: https://www.theses.fr/2022GRALM015
+  links:
+    - name: PDF
+      link: https://theses.hal.science/tel-03813699/file/BASSET_2022_archivage.pdf
+    - name: Presentation
+      link: https://www.youtube.com/watch?v=0cGJilKN0C8
+
+- title: Neural Human Deformation Transfer
+  authors: Jean Basset, Adnane Boukhayma, Stefanie Wuhrer, Franck Multon, Edmond Boyer
+  journal: International Conference on 3D Vision, 2021
+  year: 2021
+  thumbnail: basset2021neural.png
+  site: https://inria.hal.science/hal-03440562/
+  links:
+    - name: PDF
+      link: https://hal.science/hal-03440562v1/document
+    - name: Video
+      link: https://hal.science/hal-03440562v1/preview/Neural%20Human%20Deformation%20Transfer.mp4
+    - name: DOI
+      link: https://doi.org/10.1109/3DV53792.2021.00064
+
+- title: Contact preserving shape transfer - Retargeting motion from one shape to another
+  authors: Jean Basset, Stefanie Wuhrer, Edmond Boyer, Franck Multon
+  journal: Computers & Graphics, 2020
+  year: 2020
+  thumbnail: basset2020contact.png
+  site: https://inria.hal.science/hal-02613783v1
+  links:
+    - name: PDF
+      link: https://hal.science/hal-02613783v1/document
+    - name: Video
+      link: https://hal.science/hal-02613783v1/preview/ContactPreservingShapeTransfer_supplementary.mp4
+    - name: DOI
+      link: https://doi.org/10.1016/j.cag.2020.04.002
+
+- title: Contact preserving shape transfer for rigging-free motion retargeting
+  authors: Jean Basset, Stefanie Wuhrer, Edmond Boyer, Franck Multon
+  journal: ACM SIGGRAPH Conference on Motion, Interaction and Games, 2019
+  year: 2019
+  thumbnail: basset2019contact.png
+  site: https://inria.hal.science/hal-02293308v3
+  links:
+    - name: PDF
+      link: https://hal.science/hal-02293308v3/document
+    - name: Video
+      link: https://hal.science/hal-02293308v3/preview/supplementary.mp4
+    - name: Presentation
+      link: https://www.youtube.com/watch?v=Sx3-ghSpiPU
+    - name: DOI
+      link: https://doi.org/10.1145/3359566.3360075
+
+- title: Understanding Users' Capability to Transfer Information between Mixed and Virtual Reality - Position Estimation across Modalities and Perspectives
+  authors: Joan Sol Roo, Jean Basset, Pierre-Antoine Cinquin, Martin Hachet
+  journal: CHI Conference on Human Factors in Computing Systems, 2018
+  year: 2018
+  thumbnail: roo2018understanding.png
+  site: https://inria.hal.science/hal-01718590v1
+  links:
+    - name: PDF
+      link: https://hal.science/hal-01718590v1/document
+    - name: DOI
+      link: https://doi.org/10.1145/3173574.3173937
+
+- title: Added value of a 3d cave within design activities
+  authors: Jean Basset, Frédéric Noël
+  journal: EuroVR International Conference, 2018
+  year: 2018
+  thumbnail: basset2018added.png
+  site: https://link.springer.com/chapter/10.1007/978-3-030-01790-3_14
+  links:
+    - name: DOI
+      link: https://doi.org/10.1007/978-3-030-01790-3_14
+

@@ -3,3 +3,40 @@
 ---
 
 @import "minima";
+
+.container {
+	display: flex;
+	align-items: top;
+	justify-content: left;
+	gap: 10px
+}
+
+.thumbnail {
+	box-shadow: 2px 2px 2px 2px Gray;
+	border-radius: 6px;
+}
+
+.imglink {
+	color: black;
+	flex-shrink: 0;
+}
+
+.pubtext {
+	margin: 0px 0px 0px 0px
+}
+
+.button {
+	border-radius: 8px;
+	background-color: LightGray;
+	padding: 2px 2px 2px 2px;
+	box-shadow: 1px 1px 1px 1px Gray;
+	color: black;
+}
+
+.button-link {
+	color: white;
+}
+
+h1 {
+  border-bottom: 1px solid black
+}
