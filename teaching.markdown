@@ -7,6 +7,8 @@ title: Teaching
 
 Web programming (HTML/PHP/CSS) at Bordeaux INP - ENSC, L3, 12h
 
+Supervision of Master project 
+
 # 2021 - 2022
 
 Teaching assistant (ATER) at Bordeaux INP - ENSC, L3 to M2, total 192h

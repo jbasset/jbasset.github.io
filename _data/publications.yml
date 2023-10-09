@@ -1,3 +1,13 @@
+- title: Efficient Interpolation of Rough Line Drawings
+  authors: Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
+  journal: To appear in Computer Graphics Forum, 2023
+  year: 2023
+  thumbnail: chen2023efficient.png
+  site: https://mostyle.github.io/blog/pg2023
+  links:
+    - name: PDF
+      link: https://inria.hal.science/hal-04202841v1/document
+
 - title: Impact of Self-Contacts on Perceived Pose Equivalences
   authors: Jean Basset, Badr Ouannas, Ludovic Hoyet, Franck Multon, Stefanie Wuhrer
   journal: ACM SIGGRAPH Conference on Motion, Interaction and Games, 2022

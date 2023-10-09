@@ -3,11 +3,14 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-dark;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: #D3D3D3;
 }
 
 .site-title {
@@ -39,11 +42,36 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    padding: 10px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
     }
+  }
+
+  .page-link:hover {
+    color: white;
+    background-color: #296E85;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+
+  .page-link-current {
+    color: white;
+    line-height: $base-line-height;
+    background-color: #296E85;
+    padding: 10px;
+    border-radius: 5px;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  .page-link-current:hover {
+    text-decoration: none;
   }
 
   @include media-query($on-palm) {
@@ -106,7 +134,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
   padding: $spacing-unit 0;
 }
 
@@ -123,7 +151,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $grey-color-dark;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -178,6 +206,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background-color: #fdfdfd;
 }
 
 .page-heading {

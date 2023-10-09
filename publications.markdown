@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-{% for year in (2018...2022) reversed %}
+{% for year in (2018...2023) reversed %}
 
 <h1> {{year}} </h1>
 
@@ -20,8 +20,8 @@ title: Publications
 		<p class="pubtext"><em>{{pub.journal}}</em></p>
 		<div class="pubtext, container">
 			{% for link in pub.links %}
-			<a class="button-link" href="{{link.link}}" target="_blank">
-				<span class="button">
+			<a class="button" href="{{link.link}}" target="_blank">
+				<span>
 					{{link.name}}
 				</span>
 			</a>

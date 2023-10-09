@@ -25,12 +25,26 @@
 	margin: 0px 0px 0px 0px
 }
 
+.button:link{
+	color: black;
+}
+
+.button:visited{
+	color: black;
+}
+
 .button {
 	border-radius: 8px;
 	background-color: LightGray;
 	padding: 2px 2px 2px 2px;
 	box-shadow: 1px 1px 1px 1px Gray;
-	color: black;
+	text-color: black;
+}
+
+.button:hover{
+	background-color: Gray;
+	text-decoration: none;
+	box-shadow: 0px 0px 0px 0px Gray;
 }
 
 .button-link {
