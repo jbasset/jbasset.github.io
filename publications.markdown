@@ -18,6 +18,9 @@ title: Publications
 		<p class="pubtext"><a href="{{pub.site}}" target="_blank"><strong>{{pub.title}}</strong></a></p>
 		<p class="pubtext">{{pub.authors}}</p>
 		<p class="pubtext"><em>{{pub.journal}}</em></p>
+		{% if pub.distinction != "none" %}
+			<p class="pubtext"><b>{{pub.distinction}}</b></p>
+		{% endif %}
 		<div class="pubtext, container">
 			{% for link in pub.links %}
 			<a class="button" href="{{link.link}}" target="_blank">

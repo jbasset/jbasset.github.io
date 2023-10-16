@@ -4,6 +4,7 @@
   year: 2023
   thumbnail: chen2023efficient.png
   site: https://mostyle.github.io/blog/pg2023
+  distinction: Best Paper Award at Pacific Graphics 2023
   links:
     - name: PDF
       link: https://inria.hal.science/hal-04202841v1/document
@@ -14,6 +15,7 @@
   year: 2022
   thumbnail: basset2022impact.png
   site: https://inria.hal.science/hal-03817534v1
+  distinction: none
   links:
     - name: PDF
       link: https://inria.hal.science/hal-03817534v1/document
@@ -28,6 +30,7 @@
   year: 2022
   thumbnail: basset2022morphologically.png
   site: https://www.theses.fr/2022GRALM015
+  distinction: none
   links:
     - name: PDF
       link: https://theses.hal.science/tel-03813699/file/BASSET_2022_archivage.pdf
@@ -40,6 +43,7 @@
   year: 2021
   thumbnail: basset2021neural.png
   site: https://inria.hal.science/hal-03440562/
+  distinction: none
   links:
     - name: PDF
       link: https://hal.science/hal-03440562v1/document
@@ -54,6 +58,7 @@
   year: 2020
   thumbnail: basset2020contact.png
   site: https://inria.hal.science/hal-02613783v1
+  distinction: none
   links:
     - name: PDF
       link: https://hal.science/hal-02613783v1/document
@@ -68,6 +73,7 @@
   year: 2019
   thumbnail: basset2019contact.png
   site: https://inria.hal.science/hal-02293308v3
+  distinction: none
   links:
     - name: PDF
       link: https://hal.science/hal-02293308v3/document
@@ -84,6 +90,7 @@
   year: 2018
   thumbnail: roo2018understanding.png
   site: https://inria.hal.science/hal-01718590v1
+  distinction: none
   links:
     - name: PDF
       link: https://hal.science/hal-01718590v1/document
@@ -96,6 +103,7 @@
   year: 2018
   thumbnail: basset2018added.png
   site: https://link.springer.com/chapter/10.1007/978-3-030-01790-3_14
+  distinction: none
   links:
     - name: DOI
       link: https://doi.org/10.1007/978-3-030-01790-3_14
