@@ -1,6 +1,14 @@
+- title: Interactive Art-Directable Smear Frame Stylization
+  authors: Jean Basset, Pierre Bénard, Pascal Barla
+  journal: Journées Françaises de l'Informatique Graphique, 2023
+  year: 2023
+  thumbnail: basset2023interactive.png
+  site: https://mostyle.github.io
+  distinction: none
+
 - title: Efficient Interpolation of Rough Line Drawings
   authors: Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
-  journal: To appear in Computer Graphics Forum, 2023
+  journal: To appear in Computer Graphics Forum (Pacific Graphics), 2023
   year: 2023
   thumbnail: chen2023efficient.png
   site: https://mostyle.github.io/blog/pg2023

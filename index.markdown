@@ -14,4 +14,4 @@ I previously obtained my Ph.D. from the <a href="https://edmstii.univ-grenoble-a
 
 # Research Interests
 
-I am currently working on space-time 3D animation stylization. My focus is on stylization of the geometry and motion of 3D animations in order to recreate traditional 2D animation effects. I am also interested in perception of animations by observers. During my Ph.D. thesis, I worked on transfer of animations between characters, focusing on morphologically and perceptually plausible deformations. In earlier projects, I worked on human computer interaction in virtual and mixed reality environments.
+I am currently working on 3D animation stylization. My focus is on stylization of the geometry and motion of 3D animations in order to recreate traditional 2D animation effects. I am also interested in perception of animations by observers. During my Ph.D. thesis, I worked on transfer of animations between characters, focusing on morphologically and perceptually plausible deformations. In earlier projects, I worked on human computer interaction in virtual and mixed reality environments.
