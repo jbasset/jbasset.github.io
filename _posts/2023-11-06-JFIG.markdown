@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Best Paper at PG2023"
+date:   2023-10-13
+categories: jekyll update
+news: True
+excerpt_separator: <!--more-->
+---
+
+I will be presenting my recent research on Interactive Art-Directable Smear Frame Stylization at the french computer graphics conference <a href="https://jfig2023.lirmm.fr/program-at-a-glance/" target="_blank">J.FIG</a> on wednesday 08/11/2023.
+
+<!--more-->
