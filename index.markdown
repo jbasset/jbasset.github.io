@@ -26,7 +26,7 @@ I am currently working on 3D animation stylization. My focus is on stylization o
 
 <ul>
 {% for post in site.posts %}
-{% if post.news %}
+{% if post.news and post.recent%}
 <li>
 {{ post.excerpt }}
 </li>
