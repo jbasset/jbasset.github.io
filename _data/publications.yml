@@ -3,8 +3,15 @@
   journal: Journées Françaises de l'Informatique Graphique, 2023
   year: 2023
   thumbnail: basset2023interactive.png
-  site: https://mostyle.github.io
+  site: https://hal.science/hal-04285524
   distinction: 3rd Best Paper Award
+  links:
+    - name: PDF
+      link: https://hal.science/hal-04285524/document
+    - name: Video
+      link: https://hal.science/hal-04285524v1/preview/Interactive%20Art-Directable%20Smear%20Frame%20Stylization%20-%20Video.mp4
+    - name: Demo
+      link: https://hal.science/hal-04285524v1/file/Interactive%20Art-Directable%20Smear%20Frame%20Stylization%20-%20Supplemental%20Material%20-%20HAL.zip
 
 - title: Efficient Interpolation of Rough Line Drawings
   authors: Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
