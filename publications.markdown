@@ -3,12 +3,24 @@ layout: page
 title: Publications
 ---
 
-{% for year in (2018...2023) reversed %}
+{% for year in (2018...2024) reversed %}
 
-<h1> {{year}} </h1>
+{% assign pub_year = site.data.publications | where: "year", year %}
 
-{% for pub in site.data.publications %}
-{% if pub.year == year %}
+{% if pub_year.size > 0 %}
+
+
+<h1>{{year}} </h1>
+
+{% assign types = "Journal Articles, Conference Articles, Thesis, Conference Talks" | split: ", " %}
+{% for type in types %}
+{% assign pub_type = pub_year | where: "type", type %}
+
+{% if pub_type.size > 0 %}
+
+<h2>{{type}}</h2>
+
+{% for pub in pub_type %}
 
 <div class="container">
 	<a href="{{pub.site}}" target="_blank" class="imglink">
@@ -35,6 +47,10 @@ title: Publications
 
 <br/>
 
+{% endfor %}
+
+
 {% endif %}
 {% endfor %}
+{% endif %}
 {% endfor %}

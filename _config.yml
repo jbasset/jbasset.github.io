@@ -21,7 +21,7 @@
 title: Jean Basset
 email: jean.basset[at]inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  2023 Jean Basset, powered by Jekyll
+  2024 Jean Basset, powered by Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

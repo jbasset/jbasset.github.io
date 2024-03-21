@@ -1,7 +1,20 @@
+- title: Motion and Layout Depiction Using 2D/3D Animation Tools
+  authors: Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
+  journal: Vision and Depiction, 2024
+  year: 2024
+  type: Conference Talks
+  thumbnail: even2024motion.png
+  site: https://visionanddepiction.github.io/program
+  distinction: none
+  links:
+    - name: PDF
+      link: https://visionanddepiction.github.io/files/V_D_abstracts.pdf
+
 - title: Interactive Art-Directable Smear Frame Stylization
   authors: Jean Basset, Pierre Bénard, Pascal Barla
   journal: Journées Françaises de l'Informatique Graphique, 2023
   year: 2023
+  type: Conference Articles
   thumbnail: basset2023interactive.png
   site: https://hal.science/hal-04285524
   distinction: 3rd Best Paper Award
@@ -17,6 +30,7 @@
   authors: Jiazhou Chen, Xinding Zhu, Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
   journal: Computer Graphics Forum (Pacific Graphics), 2023
   year: 2023
+  type: Journal Articles
   thumbnail: chen2023efficient.png
   site: https://mostyle.github.io/blog/pg2023
   distinction: Best Paper Award at Pacific Graphics 2023
@@ -30,6 +44,7 @@
   authors: Jean Basset, Badr Ouannas, Ludovic Hoyet, Franck Multon, Stefanie Wuhrer
   journal: ACM SIGGRAPH Conference on Motion, Interaction and Games, 2022
   year: 2022
+  type: Conference Articles
   thumbnail: basset2022impact.PNG
   site: https://inria.hal.science/hal-03817534v1
   distinction: none
@@ -45,6 +60,7 @@
   authors: Jean Basset
   journal: Ph.D. Thesis, 2022
   year: 2022
+  type: Thesis
   thumbnail: basset2022morphologically.png
   site: https://www.theses.fr/2022GRALM015
   distinction: none
@@ -58,6 +74,7 @@
   authors: Jean Basset, Adnane Boukhayma, Stefanie Wuhrer, Franck Multon, Edmond Boyer
   journal: International Conference on 3D Vision, 2021
   year: 2021
+  type: Conference Articles
   thumbnail: basset2021neural.png
   site: https://inria.hal.science/hal-03440562/
   distinction: none
@@ -73,6 +90,7 @@
   authors: Jean Basset, Stefanie Wuhrer, Edmond Boyer, Franck Multon
   journal: Computers & Graphics, 2020
   year: 2020
+  type: Journal Articles
   thumbnail: basset2020contact.png
   site: https://inria.hal.science/hal-02613783v1
   distinction: none
@@ -88,6 +106,7 @@
   authors: Jean Basset, Stefanie Wuhrer, Edmond Boyer, Franck Multon
   journal: ACM SIGGRAPH Conference on Motion, Interaction and Games, 2019
   year: 2019
+  type: Conference Articles
   thumbnail: basset2019contact.PNG
   site: https://inria.hal.science/hal-02293308v3
   distinction: none
@@ -105,6 +124,7 @@
   authors: Joan Sol Roo, Jean Basset, Pierre-Antoine Cinquin, Martin Hachet
   journal: CHI Conference on Human Factors in Computing Systems, 2018
   year: 2018
+  type: Conference Articles
   thumbnail: roo2018understanding.PNG
   site: https://inria.hal.science/hal-01718590v1
   distinction: none
@@ -118,6 +138,7 @@
   authors: Jean Basset, Frédéric Noël
   journal: EuroVR International Conference, 2018
   year: 2018
+  type: Conference Articles
   thumbnail: basset2018added.PNG
   site: https://link.springer.com/chapter/10.1007/978-3-030-01790-3_14
   distinction: none
