@@ -16,6 +16,10 @@
 </ul> -->
 
 {%- if site.scholar_username -%}<a target="_blank" href="https://scholar.google.com/citations?user={{site.scholar_username | escape}}"><img style="width:1.5vw;height:1.5vw" src="assets/scholar.png"></a>{%- endif -%}
+&nbsp;
+&nbsp;
+
+{%- if site.orcid -%}<a target="_blank" href="https://orcid.org/{{ site.orcid| cgi_escape | escape }}"><img style="width:1.5vw;height:1.5vw" src="assets/OrcId.png"></a>{%- endif -%}
 
 &nbsp;
 &nbsp;

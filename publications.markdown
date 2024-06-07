@@ -10,7 +10,7 @@ title: Publications
 {% if pub_year.size > 0 %}
 
 
-<h1>{{year}} </h1>
+<h2>{{year}} </h2>
 
 {% assign types = "Journal Articles, Conference Articles, Thesis, Conference Talks" | split: ", " %}
 {% for type in types %}
@@ -18,13 +18,13 @@ title: Publications
 
 {% if pub_type.size > 0 %}
 
-<h2>{{type}}</h2>
+<h3>{{type}}</h3>
 
 {% for pub in pub_type %}
 
 <div class="container">
 	<a href="{{pub.site}}" target="_blank" class="imglink">
-		<img src="assets/thumbnails/{{pub.thumbnail}}" alt="{{pub.thumbnail}}" width=200 class="thumbnail"/>
+		<img src="assets/thumbnails/{{pub.thumbnail}}" alt="{{pub.thumbnail}}" class="thumbnail"/>
 	</a>
 	<div>
 		<p class="pubtext"><a href="{{pub.site}}" target="_blank"><strong>{{pub.title}}</strong></a></p>

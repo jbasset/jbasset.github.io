@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Best Paper at PG2023"
-date:   2023-10-13
+date:   2024-06-07
 categories: jekyll update
 news: True
-recent: True
+recent: False
 excerpt_separator: <!--more-->
 ---
 

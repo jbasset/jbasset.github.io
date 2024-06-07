@@ -4,7 +4,7 @@ title:  "Best Paper at PG2023"
 date:   2023-10-13
 categories: jekyll update
 news: True
-recent: True
+recent: False
 excerpt_separator: <!--more-->
 ---
 

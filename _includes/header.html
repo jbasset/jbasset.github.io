@@ -5,7 +5,8 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     <div class="site-title">
-      <h3 style="margin-bottom:0px"><a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h3>
+      <a rel="author" href="{{ "/" | relative_url }}", class="site-title-link">{{ site.title | escape }}</a>
+      &nbsp;
       <div class="site-subtitle">
         Postdoctoral Researcher - Inria Bordeaux - Manao Team <br>
         {%- include social.html -%} &nbsp; &nbsp; {{-site.email-}}

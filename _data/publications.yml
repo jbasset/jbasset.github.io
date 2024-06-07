@@ -1,3 +1,21 @@
+- title: "SMEAR: Stylized Motion Exaggeration with ARt-direction"
+  authors: Jean Basset, Pierre Bénard, Pascal Barla
+  journal: SIGGRAPH, 2024
+  year: 2024
+  type: Conference Articles
+  thumbnail: basset2024smear.png
+  site: https://mostyle.github.io/blog/sig2024
+  distinction: none
+  links:
+    - name: PDF
+      link: https://hal.science/hal-04576817v1/document
+    - name: Video
+      link: https://vimeo.com/946986480
+    - name: Demo
+      link: https://hal.science/hal-04576817v1/file/SMEAR%20-%20Blender%20Implementation.zip
+    - name: DOI
+      link: https://doi.org/10.1145/3641519.3657457
+
 - title: Motion and Layout Depiction Using 2D/3D Animation Tools
   authors: Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
   journal: Vision and Depiction, 2024
