@@ -13,6 +13,8 @@
       link: https://vimeo.com/946986480
     - name: Demo
       link: https://hal.science/hal-04576817v1/file/SMEAR%20-%20Blender%20Implementation.zip
+    - name: Code
+      link: https://github.com/MoStyle/SMEAR
     - name: DOI
       link: https://doi.org/10.1145/3641519.3657457
 
