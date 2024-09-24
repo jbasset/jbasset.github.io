@@ -43,6 +43,11 @@ title: Publications
 			{% endfor %}
 		</div>
 	</div>
+	{% if pub.replicability_stamp.size > 0 %}
+	<div class="pubtext, container">
+		{{pub.replicability_stamp}}
+	</div>
+	{% endif %}
 </div>
 
 <br/>

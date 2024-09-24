@@ -17,6 +17,7 @@
       link: https://github.com/MoStyle/SMEAR
     - name: DOI
       link: https://doi.org/10.1145/3641519.3657457
+  replicability_stamp: <a href="http://www.replicabilitystamp.org#https-github-com-mostyle-smear" target="_blank"><img src="https://www.replicabilitystamp.org/logo/Reproducibility-small.png"></a>
 
 - title: Motion and Layout Depiction Using 2D/3D Animation Tools
   authors: Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
