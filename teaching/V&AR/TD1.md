@@ -68,7 +68,7 @@ Create a cube to model the objects to be picked up. We'll add a ``Rigidbody`` to
 
 Note: for the ball's collision with the cube to return an event, we need to define one as a ``Trigger`` in the ``BoxCollider`` component. Here, we can define the cube as a ``Trigger``.
 
-By dragging and dropping the object into the Project interface, we can create a Prefab for our object, which will then allow us to simply change the Prefab to impact all similar objects in the scene.
+By dragging and dropping the object into the Project interface, we can create a Prefab for our object. If we drag back multiples times the newly created Prefab from the Project interface to the Scene, every modification made to one of them, will affect the others
 
 Create a scene with 12 cubes to pick up.
 
