@@ -1,7 +1,7 @@
 ---
 
 layout: course
-course_title: A&VR TD1
+title: A&VR TD1
 ---
 
 # TD1 Unity: "Roll-a-ball" game
