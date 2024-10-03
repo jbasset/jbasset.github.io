@@ -62,7 +62,7 @@ In the script, we'll need a reference to the ball. To do this, we can declare a 
 
 The idea is then to recover the difference between the position of the ball and the camera in a ``Vector3`` (using ``transform.position`` - <a href = "https://docs.unity3d.com/ScriptReference/Transform-position.html" target = "_blank">Doc</a>). In the ``Update`` method, you can move the camera to keep this distance constant (still using ``transform.position``).
 
-## Step 4: Create the collectables
+## Step 4: Create the collectibles
 
 Create a cube to model the objects to be picked up. We'll add a ``Rigidbody`` to it. To prevent it from falling to the ground, we'll remove gravity and define it as ``Kinematic``, as we won't be using forces to make it move. Instead, we'll use a script to make it turn on itself.
 
