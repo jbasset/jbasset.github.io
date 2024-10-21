@@ -32,9 +32,7 @@ Go back to the Roll-a-ball scene.
 
 Add a desktop XR Leap Motion Service Provider to the scene. You can find it in ```Ultraleap > Tracking > Service Provider (desktop)```. From the same toolbar, add hands model as a child to the service provider. Ultraleap proposes several hand types, choose whichever you prefer.
 
-Depending on the scale of your Roll-a-ball scene, the hands might be much too small or much too big. We thus need to scale the hands in order to be able to move the hand confortably on the whole size of your arena. You can either:
-- scale the hands by changing uniformely the scale of the Service Provider's transform. However, some hand models will not react well to being scaled up or down and will be distorted.
-- to avoid that, you can instead create an empty object, add all elements of your Roll-a-ball but the Service Provider as children, and scale up or down this empty to scale your scene.
+Depending on the scale of your Roll-a-ball scene, the hands might be much too small or much too big. We thus need to scale the hands in order to be able to move the hand confortably on the whole size of your arena. You can either scale the hands by changing uniformely the scale of the Service Provider's transform. However, some hand models will not react well to being scaled up or down and will be distorted. Add a new hand model and delete the old one to reset its scale.
 
 ![](TD3/hand_scale.gif)
 
@@ -42,7 +40,7 @@ Depending on the scale of your Roll-a-ball scene, the hands might be much too sm
 
 Our goal is to move the ball using the hand. Open the script controlling the motion of the ball, and follow the instructions at this page to link the script to the ultraleap service provider, in order to be able to detect the hands: <a href="https://docs.ultraleap.com/xr-and-tabletop/xr/unity/plugin/features/scripting-fundamentals.html#getting-hand-tracking-data" target="_blank">doc</a>.
 
-The ```OnUpdateFrame``` function is now called at each update of Unity if the ultraleap service provider has data to display, i.e. if a hand is detected. Access the hand data detected in order to print a message with ```Debug.Log(msg)``` when the hand of your choice (left or right) is detected. <a href="https://docs.ultraleap.com/xr-and-tabletop/xr/unity/plugin/features/scripting-fundamentals.html#hand-details" target="_blank">doc</a>.
+The ```OnUpdateFrame``` function is now called at each update of Unity if the ultraleap service provider has data to display, i.e. if a hand is detected. Access the hand data detected in order to print a message with ```Debug.Log("We found a <right/left> hand !")``` when the hand of your choice (left or right) is detected. <a href="https://docs.ultraleap.com/xr-and-tabletop/xr/unity/plugin/features/scripting-fundamentals.html#hand-details" target="_blank">doc</a>.
 
 ### Getting the position of a finger
 
